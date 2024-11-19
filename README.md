@@ -1,16 +1,28 @@
-## Hi there 👋
+Hello, I'm Marwa Akeel 👋
+Welcome to my GitHub profile! I'm excited to share my journey as I grow my skills and work on projects that inspire me. Here's a little about me:
 
-<!--
-**MarwaAkeel29/MarwaAkeel29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+Building my career and enhancing my personality 😄
+Exploring projects that combine creativity and technology.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+Cybersecurity, in Bath Spa University mainly focusing on, ethical hacking, coding, and network security, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 About Me:
+I’m originally from India, but I was born and raised in the UAE.
+I love staying busy with creative activities, which is where I feel most inspired.
+
+⚡ Fun Fact:
+I'm a multifaceted individual with a knack for creativity and problem-solving. My interests span:
+🖋️ Calligraphy
+🎨 Drawing
+🍰 Baking
+🔨 Engraving
+📖 Exploring new courses and skills (latest included!)
+
+📫 Connect with Me:
+Email: [marwaakeel2020@gmail.com]
+
+
+
+
