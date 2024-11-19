@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm excited to share my journey as I grow my skill
 🔭 **I’m currently working on:**
 
 -Building my career and enhancing my personality 😄
+
 -Exploring projects that combine creativity and technology.
 
 🌱 **I’m currently learning:**
@@ -13,11 +14,13 @@ Welcome to my GitHub profile! I'm excited to share my journey as I grow my skill
 💬 **About Me:**
 
 -I’m originally from India, but I was born and raised in the UAE.
+
 -I love staying busy with creative activities, which is where I feel most inspired.
 
 ⚡ **Fun Fact:**
 
 -I'm a multifaceted individual with a knack for creativity and problem-solving.
+
 -My interests span:
     -🖋️ Calligraphy
     -🎨 Drawing
