@@ -30,4 +30,6 @@ Welcome to my GitHub profile! I'm excited to share my journey as I grow my skill
   - 📖 Exploring new courses and skills (latest included!)
 
 📫 **Connect with Me:**
+- **LinkedIn:** [Marwa Akeel](https://www.linkedin.com/in/marwaakeel)
 - **Email:** [marwaakeel2020@gmail.com](mailto:marwaakeel2020@gmail.com)
+  
